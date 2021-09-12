@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+p {
+    color: blue;
+  font-size: 150%;
+  font-family: Helvetica, monospace, sans-serif;
+  text-align: center;
+}
+span {
+    color: blueviolet;
+  font-size: 120%;
+  font-family: Monospace, sans-serif;
+}
